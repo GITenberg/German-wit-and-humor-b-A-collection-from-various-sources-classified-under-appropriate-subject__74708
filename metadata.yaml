@@ -1,11 +1,16 @@
 _repo: German-wit-and-humor-b-A-collection-from-various-sources-classified-under-appropriate-subject__74708
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74708-h/images/cover.jpg
 creator:
   author:
     agent_name: Downes, Minna Sophie Marie Baumann
     gutenberg_agent_id: '57611'
     url: http://www.gutenberg.org/2009/agents/57611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74708#German-wit-and-humor-b-A-collection-from-various-sources-classified-under-appropriate-subject_
 gutenberg_issued: '2024-11-08'
 gutenberg_type: Text
 identifiers:
